@@ -1,5 +1,8 @@
 body {
   font-family: "Helvetica", sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -13,6 +16,4 @@ h2 {
 
 #contact {
   background-color: #FFDE7A;
-  padding: 2%;
-
-
+  padding: 1.5%;
